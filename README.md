@@ -8,6 +8,18 @@ An unofficial rebuild of **Emi**'s original work, kept running on current releas
 
 Loader: Fabric, NeoForge.
 
+## Versions
+
+| Minecraft | Loader |
+|---|---|
+| 26.3 | Fabric, NeoForge |
+| 26.2 | Fabric, NeoForge |
+| 26.1.2, 26.1.1, 26.1 | Fabric, NeoForge |
+
+## Requires
+
+- **Fabric API**
+
 ## Source
 
 The licence allows it, so the port source is available on request: ask at **9minecraft.net@gmail.com** and it will be sent over.
