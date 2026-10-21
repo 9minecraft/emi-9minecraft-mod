@@ -14,7 +14,8 @@ Loader: Fabric, NeoForge.
 |---|---|
 | 26.3 | Fabric, NeoForge |
 | 26.2 | Fabric, NeoForge |
-| 26.1.2, 26.1.1, 26.1 | Fabric, NeoForge |
+| 26.1.2 | Fabric, Forge, NeoForge |
+| 1.21.11 | Fabric |
 
 ## Requires
 
